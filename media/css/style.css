@@ -1,0 +1,10 @@
+hr {
+    margin-top: 10px !important; 
+    margin-bottom: 10px !important; 
+}
+
+img {
+    width: auto;
+    height: auto;
+    max-width: 100%; 
+}
